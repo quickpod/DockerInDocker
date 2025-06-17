@@ -5,7 +5,7 @@
 
 This guide is to setup and use Docker in Docker on QuickPod Community Cloud
 
-Docker in Docker on needs privileged pods/containers, Quickpod provides priviliged containers along with regular unprivileged containers to be able to use Docker In Dockeer (DIND) you have to select a privileged container
+Docker in Docker  needs privileged pods/containers, Quickpod provides priviliged containers along with regular unprivileged containers to be able to use Docker In Dockeer (DIND) you have to select a privileged container
 
 Privileged containers are only available for GPU pod types, you can filter for privileged containers on the top right of the GPU search page, look for the orange privileged flag on top of the offer
 
