@@ -5,11 +5,9 @@ Docker in Docker on needs privileged pods/containers, Quickpod provides privilig
 Privileged containers are only available for GPU pod types, you can filter for privileged containers on the top right of the GPU search page, look for the orange privileged flag on top of the offer
 
 ![image](https://github.com/user-attachments/assets/8400aa1a-114a-440a-bcda-09cacc4326ec)
-![image](https://github.com/user-attachments/assets/8400aa1a-114a-440a-bcda-09cacc4326ec)
 
 QuickPod provides two templates one alpine OS based and another ubuntu 22.04 based
 
-![image](https://github.com/user-attachments/assets/4408ea02-aa59-4386-8675-df54439f02bd)
 ![image](https://github.com/user-attachments/assets/4408ea02-aa59-4386-8675-df54439f02bd)
 
 For most cases Ubuntu template is better suited
