@@ -33,6 +33,8 @@ the same port you will forward while creating a sub pod as follows
 
 docker run -it --runtime=nvidia --gpus all -p 40001:22 -p 40002:80 -p 40003:443 ubuntu /bin/bash
 
+IMPORTANT: /workspace on host is mapped to /workspace on container, so you should run all your programs etc inside the /workspace folder, this is to facilitate any volume mappings your docker compose files will like to do
+
 Please open a ticket in discord if you face problems
 
 
